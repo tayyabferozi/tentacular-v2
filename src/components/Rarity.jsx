@@ -25,7 +25,7 @@ const Rarity = () => {
               <Fade bottom cascade>
                 <div className="main-row row gy-4">
                   <div className="col-sm-6 col-md-3 col-lg">
-                    <div className="nft-card">
+                    <div className="nft-card hvr-grow-rotate">
                       <div className="main">
                         <h3>Merchant</h3>
 
@@ -34,7 +34,7 @@ const Rarity = () => {
                     </div>
                   </div>
                   <div className="col-sm-6 col-md-3 col-lg">
-                    <div className="nft-card">
+                    <div className="nft-card hvr-grow-rotate">
                       <div className="main">
                         <h3>Artisan</h3>
 
@@ -43,7 +43,7 @@ const Rarity = () => {
                     </div>
                   </div>
                   <div className="col-sm-6 col-md-3 col-lg">
-                    <div className="nft-card">
+                    <div className="nft-card hvr-grow-rotate">
                       <div className="main">
                         <h3>Knight</h3>
 
@@ -52,7 +52,7 @@ const Rarity = () => {
                     </div>
                   </div>
                   <div className="col-sm-6 col-md-3 col-lg">
-                    <div className="nft-card">
+                    <div className="nft-card hvr-grow-rotate">
                       <div className="main">
                         <h3>Noble</h3>
 
@@ -61,7 +61,7 @@ const Rarity = () => {
                     </div>
                   </div>
                   <div className="col-sm-6 col-md-3 col-lg">
-                    <div className="nft-card">
+                    <div className="nft-card hvr-grow-rotate">
                       <div className="main">
                         <h3>Royal</h3>
 
@@ -85,7 +85,7 @@ const Rarity = () => {
               <Slide bottom cascade>
                 <div className="row gy-4 justify-content-center">
                   <div className="col-lg-4 col-md-6">
-                    <div className="category-card">
+                    <div className="category-card hvr-bob">
                       <div className="main">
                         <h3>Background</h3>
 
@@ -97,7 +97,7 @@ const Rarity = () => {
                     </div>
                   </div>
                   <div className="col-lg-4 col-md-6">
-                    <div className="category-card">
+                    <div className="category-card hvr-bob">
                       <div className="main">
                         <h3>Body</h3>
 
@@ -109,7 +109,7 @@ const Rarity = () => {
                     </div>
                   </div>
                   <div className="col-lg-4 col-md-6">
-                    <div className="category-card">
+                    <div className="category-card hvr-bob">
                       <div className="main">
                         <h3>Eyes </h3>
 
@@ -121,7 +121,7 @@ const Rarity = () => {
                     </div>
                   </div>
                   <div className="col-lg-4 col-md-6">
-                    <div className="category-card">
+                    <div className="category-card hvr-bob">
                       <div className="main">
                         <h3>Eye Accessory</h3>
 
@@ -133,7 +133,7 @@ const Rarity = () => {
                     </div>
                   </div>
                   <div className="col-lg-4 col-md-6">
-                    <div className="category-card">
+                    <div className="category-card hvr-bob">
                       <div className="main">
                         <h3>
                           Head <br /> Accessory
@@ -147,7 +147,7 @@ const Rarity = () => {
                     </div>
                   </div>
                   <div className="col-lg-4 col-md-6">
-                    <div className="category-card">
+                    <div className="category-card hvr-bob">
                       <div className="main">
                         <h3>
                           Body <br /> Accessory
@@ -161,7 +161,7 @@ const Rarity = () => {
                     </div>
                   </div>
                   <div className="col-lg-4 col-md-6">
-                    <div className="category-card">
+                    <div className="category-card hvr-bob">
                       <div className="main">
                         <h3>Base</h3>
 

@@ -364,18 +364,15 @@ body {
           height: 100%;
           padding: 31px 18px 0;
           background: url(../assets/bg-attribue-card.svg);
-          background-size: 100%;
+          background-size: cover;
           background-origin: center;
 
           @extend %transition;
 
           &:hover {
-            background-size: 110%;
+            // background-size: 110%;
           }
         }
-        // .hover-card {
-        //   background-size: 200%;
-        // }
 
         * {
           color: #fff;
@@ -422,7 +419,7 @@ body {
           height: 100%;
           padding: 0 1rem;
           background: url(../assets/bg-attribue-card.png);
-          background-size: 100%;
+          background-size: cover;
           display: flex;
           justify-content: space-between;
           align-items: center;
@@ -430,7 +427,7 @@ body {
           @extend %transition;
 
           &:hover {
-            background-size: 110%;
+            // background-size: 110%;
           }
 
           @media screen and (max-width: 360px) {
