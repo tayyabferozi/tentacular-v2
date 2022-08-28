@@ -12,9 +12,6 @@ const Rarity = () => {
               <p className="fs-22 text-white text-center mb-4">
                 Each NFT is randomly generated from an assortment of over 200+
                 hand-drawn traits distributed amongst 7 attribute categories.
-                Not all Tentacular are equally strong in their harvest. The
-                rarity will determine the harvesting ability of your Tentacular
-                on their newly arable land.
               </p>
               <h2>Rarity</h2>
             </div>
